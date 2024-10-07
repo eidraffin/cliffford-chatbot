@@ -1,6 +1,6 @@
 # Cliffford Chatbot
 
-Cliffford is a MERN stack chatbot project integrated with Clerk for user authentication and Google Generative AI for model-based responses. The app allows users to engage in chats, upload images via ImageKit, and manage chat histories with MongoDB and Express.js on the backend.
+Cliffford is a MERN stack chatbot integrated with Clerk for user authentication and Google Generative AI for model-based responses. The app allows users to engage in chats, upload images via ImageKit, and manage chat histories with MongoDB and Express.js on the backend.
 
 ---
 
